@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690069682 source:d:\self practice\problem solutions\a. acrobatic jumping\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
